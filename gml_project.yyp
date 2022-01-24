@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},"order":0,},
     {"id":{"name":"Spr_player","path":"sprites/Spr_player/Spr_player.yy",},"order":0,},
+    {"id":{"name":"Spr_box","path":"sprites/Spr_box/Spr_box.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
