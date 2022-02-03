@@ -1,10 +1,13 @@
 {
   "resources": [
     {"id":{"name":"R_MenuGame","path":"rooms/R_MenuGame/R_MenuGame.yy",},"order":1,},
+    {"id":{"name":"Obj_debug","path":"objects/Obj_debug/Obj_debug.yy",},"order":3,},
     {"id":{"name":"Spr_enemy2","path":"sprites/Spr_enemy2/Spr_enemy2.yy",},"order":4,},
     {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},"order":0,},
     {"id":{"name":"Spr_player","path":"sprites/Spr_player/Spr_player.yy",},"order":0,},
     {"id":{"name":"Obj_enemy2","path":"objects/Obj_enemy2/Obj_enemy2.yy",},"order":2,},
+    {"id":{"name":"Obj_ng_button","path":"objects/Obj_ng_button/Obj_ng_button.yy",},"order":0,},
+    {"id":{"name":"Obj_exit_button6","path":"objects/Obj_exit_button6/Obj_exit_button6.yy",},"order":1,},
     {"id":{"name":"Spr_wood","path":"sprites/Spr_wood/Spr_wood.yy",},"order":2,},
     {"id":{"name":"Spr_bonfire_darksouls","path":"sprites/Spr_bonfire_darksouls/Spr_bonfire_darksouls.yy",},"order":5,},
     {"id":{"name":"Spr_enemy1","path":"sprites/Spr_enemy1/Spr_enemy1.yy",},"order":3,},
@@ -44,6 +47,7 @@
     {"folderPath":"folders/Animation Curves.yy","order":12,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/menu_buttons.yy","order":4,"resourceVersion":"1.0","name":"menu_buttons","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
