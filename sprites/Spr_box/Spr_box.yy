@@ -148,8 +148,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Environment_objects",
+    "path": "folders/Sprites/Environment_objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "Spr_box",
