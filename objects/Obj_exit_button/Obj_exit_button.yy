@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "Spr_button_play_menu_game",
-    "path": "sprites/Spr_button_play_menu_game/Spr_button_play_menu_game.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -20,7 +17,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -28,7 +27,7 @@
     "path": "folders/Objects/menu_buttons.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_button_play_menu_game",
+  "name": "Obj_exit_button",
   "tags": [],
   "resourceType": "GMObject",
 }
