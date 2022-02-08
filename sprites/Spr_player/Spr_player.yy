@@ -224,8 +224,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Player_ Allies",
+    "path": "folders/Sprites/Player_ Allies.yy",
   },
   "resourceVersion": "1.0",
   "name": "Spr_player",
