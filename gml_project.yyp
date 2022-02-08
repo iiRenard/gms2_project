@@ -14,6 +14,7 @@
     {"id":{"name":"Spr_enemy1","path":"sprites/Spr_enemy1/Spr_enemy1.yy",},"order":0,},
     {"id":{"name":"Spr_box","path":"sprites/Spr_box/Spr_box.yy",},"order":1,},
     {"id":{"name":"Obj_enemy1","path":"objects/Obj_enemy1/Obj_enemy1.yy",},"order":0,},
+    {"id":{"name":"Spr_exit_button","path":"sprites/Spr_exit_button/Spr_exit_button.yy",},"order":1,},
     {"id":{"name":"R_Game","path":"rooms/R_Game/R_Game.yy",},"order":0,},
   ],
   "Options": [
