@@ -1,4 +1,4 @@
-/// @description exit
+/// @description spawn on/off
 // You can write your code in this editor
 
-game_end()
+global.spawn = !global.spawn
