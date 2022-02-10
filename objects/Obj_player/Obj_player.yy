@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Player_ Allies",
+    "path": "folders/Objects/Player_ Allies.yy",
   },
   "resourceVersion": "1.0",
   "name": "Obj_player",

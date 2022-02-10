@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "Spr_ng_button",
+    "path": "sprites/Spr_ng_button/Spr_ng_button.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
