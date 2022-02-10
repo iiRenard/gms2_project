@@ -1,2 +1,3 @@
 /// @description 
-speed = 10;
+move_spd = 5
+hp = 100

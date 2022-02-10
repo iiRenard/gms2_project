@@ -1,2 +1,2 @@
 /// @description
-x++;
+x += move_spd
