@@ -19,6 +19,7 @@
     {"id":{"name":"Spr_enemy_1","path":"sprites/Spr_enemy_1/Spr_enemy_1.yy",},"order":0,},
     {"id":{"name":"Spr_box","path":"sprites/Spr_box/Spr_box.yy",},"order":1,},
     {"id":{"name":"Obj_enemy1","path":"objects/Obj_enemy1/Obj_enemy1.yy",},"order":0,},
+    {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},"order":0,},
     {"id":{"name":"Obj_spawner","path":"objects/Obj_spawner/Obj_spawner.yy",},"order":0,},
     {"id":{"name":"Spr_enemy_left_1","path":"sprites/Spr_enemy_left_1/Spr_enemy_left_1.yy",},"order":2,},
     {"id":{"name":"Spr_Tent","path":"sprites/Spr_Tent/Spr_Tent.yy",},"order":3,},
