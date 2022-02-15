@@ -12,7 +12,7 @@
     {"id":{"name":"Obj_ng_button","path":"objects/Obj_ng_button/Obj_ng_button.yy",},"order":0,},
     {"id":{"name":"Obj_exit_button","path":"objects/Obj_exit_button/Obj_exit_button.yy",},"order":1,},
     {"id":{"name":"Spr_wood_2","path":"sprites/Spr_wood_2/Spr_wood_2.yy",},"order":4,},
-    {"id":{"name":"choose_dir","path":"scripts/choose_dir/choose_dir.yy",},"order":0,},
+    {"id":{"name":"Scr_npc","path":"scripts/Scr_npc/Scr_npc.yy",},"order":0,},
     {"id":{"name":"Spr_Environment","path":"sprites/Spr_Environment/Spr_Environment.yy",},"order":4,},
     {"id":{"name":"Spr_wood_1","path":"sprites/Spr_wood_1/Spr_wood_1.yy",},"order":2,},
     {"id":{"name":"Spr_bonfire_darksouls","path":"sprites/Spr_bonfire_darksouls/Spr_bonfire_darksouls.yy",},"order":0,},

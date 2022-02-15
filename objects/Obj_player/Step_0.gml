@@ -3,10 +3,12 @@
 
 if keyboard_check(ord("A")) || keyboard_check(vk_left){
 	x -= move_spd
+	sprite_index = Spr_player_left
 }
 
 if keyboard_check(ord("D")) || keyboard_check(vk_right){
 	x += move_spd
+	sprite_index = Spr_player_right
 }
 
 

@@ -8,3 +8,9 @@ function choose_dir(){
 			other.move_spd *=  -1
 		}
 }
+
+function outroom(){
+	if x < 0 || x > 8000 {
+		instance_destroy()
+	}
+}
