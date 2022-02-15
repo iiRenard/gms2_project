@@ -1,12 +1,12 @@
 {
   "resources": [
-    {"id":{"name":"Spr_player_left_1","path":"sprites/Spr_player_left_1/Spr_player_left_1.yy",},"order":1,},
+    {"id":{"name":"Spr_player_left","path":"sprites/Spr_player_left/Spr_player_left.yy",},"order":1,},
     {"id":{"name":"R_MenuGame","path":"rooms/R_MenuGame/R_MenuGame.yy",},"order":1,},
     {"id":{"name":"Obj_debug","path":"objects/Obj_debug/Obj_debug.yy",},"order":1,},
     {"id":{"name":"Spr_enemy_2","path":"sprites/Spr_enemy_2/Spr_enemy_2.yy",},"order":1,},
     {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},"order":0,},
     {"id":{"name":"TileSet_Environment","path":"tilesets/TileSet_Environment/TileSet_Environment.yy",},"order":0,},
-    {"id":{"name":"Spr_player","path":"sprites/Spr_player/Spr_player.yy",},"order":0,},
+    {"id":{"name":"Spr_player_right","path":"sprites/Spr_player_right/Spr_player_right.yy",},"order":0,},
     {"id":{"name":"Spr_ng_button","path":"sprites/Spr_ng_button/Spr_ng_button.yy",},"order":0,},
     {"id":{"name":"Obj_enemy2","path":"objects/Obj_enemy2/Obj_enemy2.yy",},"order":1,},
     {"id":{"name":"Obj_ng_button","path":"objects/Obj_ng_button/Obj_ng_button.yy",},"order":0,},
@@ -23,6 +23,7 @@
     {"id":{"name":"Obj_spawner","path":"objects/Obj_spawner/Obj_spawner.yy",},"order":0,},
     {"id":{"name":"Spr_enemy_left_1","path":"sprites/Spr_enemy_left_1/Spr_enemy_left_1.yy",},"order":2,},
     {"id":{"name":"Spr_Tent","path":"sprites/Spr_Tent/Spr_Tent.yy",},"order":3,},
+    {"id":{"name":"Obj_camp","path":"objects/Obj_camp/Obj_camp.yy",},"order":1,},
     {"id":{"name":"Spr_exit_button","path":"sprites/Spr_exit_button/Spr_exit_button.yy",},"order":1,},
     {"id":{"name":"R_Game","path":"rooms/R_Game/R_Game.yy",},"order":0,},
   ],

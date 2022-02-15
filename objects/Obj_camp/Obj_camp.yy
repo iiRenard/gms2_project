@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Spr_player_right",
-    "path": "sprites/Spr_player_right/Spr_player_right.yy",
+    "name": "Spr_Tent",
+    "path": "sprites/Spr_Tent/Spr_Tent.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,7 +21,6 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
@@ -31,7 +30,7 @@
     "path": "folders/Objects/Player_ Allies.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_player",
+  "name": "Obj_camp",
   "tags": [],
   "resourceType": "GMObject",
 }
