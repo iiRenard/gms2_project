@@ -21,23 +21,22 @@ function move(dir){
 
 function rand_dir(){
 	
-	rnd = irandom_range(0, 3)
+	var rnd = irandom_range(0, 3)
+	alarm[0] = irandom_range(120, 600)
 	
 	switch(rnd){
 		case 0:
-			dir = "none"
+			return "none"
 			break
 		case 1:
-			dir = "left"
+			return "left"
 			break
 		case 2:
-			dir = "right"
+			return "right"
 			break
 		case 3:
-			dir = "home"
+			return "home"
 			break;
 	}
 	
-	alarm[0] = irandom_range(120, 600)
-	count += 1
 }
