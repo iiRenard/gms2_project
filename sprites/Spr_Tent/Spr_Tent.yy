@@ -138,7 +138,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"Spr_Tent","path":"sprites/Spr_Tent/Spr_Tent.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "Spr_Tent",
     "tags": [],
     "resourceType": "GMSequence",

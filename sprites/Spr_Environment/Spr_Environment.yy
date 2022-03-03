@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"Spr_Environment","path":"sprites/Spr_Environment/Spr_Environment.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "Spr_Environment",
     "tags": [],
     "resourceType": "GMSequence",

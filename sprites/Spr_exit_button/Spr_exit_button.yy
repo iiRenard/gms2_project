@@ -146,7 +146,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"Spr_exit_button","path":"sprites/Spr_exit_button/Spr_exit_button.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "Spr_exit_button",
     "tags": [],
     "resourceType": "GMSequence",

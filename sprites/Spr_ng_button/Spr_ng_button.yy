@@ -146,7 +146,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"Spr_ng_button","path":"sprites/Spr_ng_button/Spr_ng_button.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "Spr_ng_button",
     "tags": [],
     "resourceType": "GMSequence",

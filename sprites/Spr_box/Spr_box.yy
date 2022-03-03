@@ -138,7 +138,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"Spr_box","path":"sprites/Spr_box/Spr_box.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "Spr_box",
     "tags": [],
     "resourceType": "GMSequence",

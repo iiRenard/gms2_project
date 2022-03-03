@@ -99,7 +99,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"Spr_bonfire_darksouls","path":"sprites/Spr_bonfire_darksouls/Spr_bonfire_darksouls.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "Spr_bonfire_darksouls",
     "tags": [],
     "resourceType": "GMSequence",

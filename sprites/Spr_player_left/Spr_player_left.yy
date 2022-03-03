@@ -210,7 +210,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"Spr_player_left","path":"sprites/Spr_player_left/Spr_player_left.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "Spr_player_left",
     "tags": [],
     "resourceType": "GMSequence",
