@@ -14,6 +14,7 @@
     {"id":{"name":"Obj_exit_button","path":"objects/Obj_exit_button/Obj_exit_button.yy",},"order":1,},
     {"id":{"name":"Scr_enemy","path":"scripts/Scr_enemy/Scr_enemy.yy",},"order":0,},
     {"id":{"name":"Spr_base","path":"sprites/Spr_base/Spr_base.yy",},"order":4,},
+    {"id":{"name":"Scr_DGUI","path":"scripts/Scr_DGUI/Scr_DGUI.yy",},"order":2,},
     {"id":{"name":"Spr_Environment","path":"sprites/Spr_Environment/Spr_Environment.yy",},"order":4,},
     {"id":{"name":"Spr_wood_1","path":"sprites/Spr_wood_1/Spr_wood_1.yy",},"order":2,},
     {"id":{"name":"Obj_GUI","path":"objects/Obj_GUI/Obj_GUI.yy",},"order":2,},
