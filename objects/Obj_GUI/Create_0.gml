@@ -4,4 +4,3 @@
 global.wood = 500
 global.metal = 500
 global.food = 500
-
