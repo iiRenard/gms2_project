@@ -13,8 +13,10 @@ function move(dir){
 			if x + move_spd < 8000 { x += move_spd }
 			break
 		case "home":
-			if self.x < Obj_camp.x { move("right") }
-			else { move("left") }
+			if distance_to_object(Obj_camp) > 50{
+				if self.x < Obj_camp.x { move("right") }
+				else { move("left") }
+			}
 	}
 	
 }
