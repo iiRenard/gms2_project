@@ -4,7 +4,7 @@
 	//******************************//
 		if health > 0
 {
-    effect_create_above(ef_smokeup, x, y, 10, c_orange);
+    effect_create_above(ef_rain, x, y, 20, c_grey);
 }
 		//*************************//
 

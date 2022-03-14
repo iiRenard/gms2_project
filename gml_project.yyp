@@ -34,7 +34,7 @@
     {"id":{"name":"Spr_Tent","path":"sprites/Spr_Tent/Spr_Tent.yy",},"order":3,},
     {"id":{"name":"Obj_camp","path":"objects/Obj_camp/Obj_camp.yy",},"order":1,},
     {"id":{"name":"Spt_Tent2","path":"sprites/Spt_Tent2/Spt_Tent2.yy",},"order":7,},
-    {"id":{"name":"Spr_exit_button","path":"sprites/Spr_exit_button/Spr_exit_button.yy",},"order":1,},
+    {"id":{"name":"Spr_exit_button","path":"sprites/Spr_exit_button/Spr_exit_button.yy",},"order":6,},
     {"id":{"name":"R_Game","path":"rooms/R_Game/R_Game.yy",},"order":0,},
   ],
   "Options": [
