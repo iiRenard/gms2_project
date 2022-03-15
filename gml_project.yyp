@@ -24,6 +24,7 @@
     {"id":{"name":"Spr_bonfire_darksouls","path":"sprites/Spr_bonfire_darksouls/Spr_bonfire_darksouls.yy",},"order":0,},
     {"id":{"name":"Spr_enemy_1","path":"sprites/Spr_enemy_1/Spr_enemy_1.yy",},"order":0,},
     {"id":{"name":"Spr_box","path":"sprites/Spr_box/Spr_box.yy",},"order":1,},
+    {"id":{"name":"Spr_road","path":"sprites/Spr_road/Spr_road.yy",},"order":3,},
     {"id":{"name":"Obj_enemy1","path":"objects/Obj_enemy1/Obj_enemy1.yy",},"order":0,},
     {"id":{"name":"Optimization","path":"notes/Optimization/Optimization.yy",},"order":0,},
     {"id":{"name":"Obj_spawner","path":"objects/Obj_spawner/Obj_spawner.yy",},"order":0,},
