@@ -4,6 +4,8 @@
     {"id":{"name":"R_MenuGame","path":"rooms/R_MenuGame/R_MenuGame.yy",},"order":1,},
     {"id":{"name":"Obj_debug","path":"objects/Obj_debug/Obj_debug.yy",},"order":1,},
     {"id":{"name":"Spr_enemy_2","path":"sprites/Spr_enemy_2/Spr_enemy_2.yy",},"order":1,},
+    {"id":{"name":"_______0002","path":"sprites/_______0002/_______0002.yy",},"order":16,},
+    {"id":{"name":"car","path":"sprites/car/car.yy",},"order":15,},
     {"id":{"name":"Spr_npc","path":"sprites/Spr_npc/Spr_npc.yy",},"order":2,},
     {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},"order":0,},
     {"id":{"name":"Spr_dog","path":"sprites/Spr_dog/Spr_dog.yy",},"order":3,},
@@ -21,10 +23,9 @@
     {"id":{"name":"Spr_wood_1","path":"sprites/Spr_wood_1/Spr_wood_1.yy",},"order":2,},
     {"id":{"name":"Obj_GUI","path":"objects/Obj_GUI/Obj_GUI.yy",},"order":2,},
     {"id":{"name":"scr_npc","path":"scripts/scr_npc/scr_npc.yy",},"order":1,},
-    {"id":{"name":"Spr_bonfire_darksouls","path":"sprites/Spr_bonfire_darksouls/Spr_bonfire_darksouls.yy",},"order":0,},
     {"id":{"name":"Spr_enemy_1","path":"sprites/Spr_enemy_1/Spr_enemy_1.yy",},"order":0,},
     {"id":{"name":"Spr_box","path":"sprites/Spr_box/Spr_box.yy",},"order":1,},
-    {"id":{"name":"Spr_road","path":"sprites/Spr_road/Spr_road.yy",},"order":3,},
+    {"id":{"name":"Spr_road","path":"sprites/Spr_road/Spr_road.yy",},"order":8,},
     {"id":{"name":"Obj_enemy1","path":"objects/Obj_enemy1/Obj_enemy1.yy",},"order":0,},
     {"id":{"name":"Optimization","path":"notes/Optimization/Optimization.yy",},"order":0,},
     {"id":{"name":"Obj_spawner","path":"objects/Obj_spawner/Obj_spawner.yy",},"order":0,},
@@ -86,7 +87,9 @@
   "TextureGroups": [
     {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
   ],
-  "IncludedFiles": [],
+  "IncludedFiles": [
+    {"CopyToMask":0,"filePath":"datafiles","resourceVersion":"1.0","name":"car.aseprite","resourceType":"GMIncludedFile",},
+  ],
   "MetaData": {
     "IDEVersion": "2022.2.1.618",
   },
