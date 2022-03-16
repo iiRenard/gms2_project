@@ -20,7 +20,7 @@
     {"id":{"name":"Scr_enemy","path":"scripts/Scr_enemy/Scr_enemy.yy",},"order":0,},
     {"id":{"name":"Scr_DGUI","path":"scripts/Scr_DGUI/Scr_DGUI.yy",},"order":2,},
     {"id":{"name":"Spr_Environment","path":"sprites/Spr_Environment/Spr_Environment.yy",},"order":4,},
-    {"id":{"name":"Spr_wood_1","path":"sprites/Spr_wood_1/Spr_wood_1.yy",},"order":1,},
+    {"id":{"name":"Spr_wood","path":"sprites/Spr_wood/Spr_wood.yy",},"order":1,},
     {"id":{"name":"Obj_GUI","path":"objects/Obj_GUI/Obj_GUI.yy",},"order":2,},
     {"id":{"name":"Scr_npc","path":"scripts/Scr_npc/Scr_npc.yy",},"order":1,},
     {"id":{"name":"Spr_enemy_1","path":"sprites/Spr_enemy_1/Spr_enemy_1.yy",},"order":0,},
