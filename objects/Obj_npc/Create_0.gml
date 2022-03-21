@@ -4,4 +4,4 @@
 dir = "none"
 move_spd = 5
 
-dir = rand_dir()
+class = "none"
