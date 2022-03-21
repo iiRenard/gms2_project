@@ -4,6 +4,7 @@
 function move(dir){
 	
 	switch(dir){
+		
 		case "left":
 			sprite_index = Spr_player_left
 			if x - move_spd > 0 { x -= move_spd }
@@ -17,6 +18,7 @@ function move(dir){
 				if self.x < Obj_camp.x { move("right") }
 				else { move("left") }
 			}
+			
 	}
 	
 }

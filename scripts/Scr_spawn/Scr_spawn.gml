@@ -2,15 +2,20 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 
 function spawn_soldier(){
+	
 	if global.food >= 150 && global.metal >= 150{
+		
 		npcSpawn = instance_create_depth(x,y,100,Obj_npc)
+		
 		with(npcSpawn){
 			global.food -= 150
 			global.metal -= 150
 			self.dir = rand_dir()
 			self.class = "soldier"
 		}
+		
 	}
+	
 }
 
 function spawn_farmer(){
