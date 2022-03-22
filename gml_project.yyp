@@ -14,6 +14,8 @@
     {"id":{"name":"Spr_player_right","path":"sprites/Spr_player_right/Spr_player_right.yy",},"order":0,},
     {"id":{"name":"Spr_ng_button","path":"sprites/Spr_ng_button/Spr_ng_button.yy",},"order":0,},
     {"id":{"name":"Spr_bar_3","path":"sprites/Spr_bar_3/Spr_bar_3.yy",},"order":5,},
+    {"id":{"name":"Tent","path":"sprites/Tent/Tent.yy",},"order":15,},
+    {"id":{"name":"Spr_tent_3","path":"sprites/Spr_tent_3/Spr_tent_3.yy",},"order":0,},
     {"id":{"name":"Obj_enemy2","path":"objects/Obj_enemy2/Obj_enemy2.yy",},"order":1,},
     {"id":{"name":"Obj_ng_button","path":"objects/Obj_ng_button/Obj_ng_button.yy",},"order":0,},
     {"id":{"name":"Obj_exit_button","path":"objects/Obj_exit_button/Obj_exit_button.yy",},"order":1,},
