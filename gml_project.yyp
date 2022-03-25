@@ -32,6 +32,7 @@
     {"id":{"name":"Obj_enemy1","path":"objects/Obj_enemy1/Obj_enemy1.yy",},"order":0,},
     {"id":{"name":"Optimization","path":"notes/Optimization/Optimization.yy",},"order":0,},
     {"id":{"name":"Obj_spawner","path":"objects/Obj_spawner/Obj_spawner.yy",},"order":0,},
+    {"id":{"name":"Spr_bomber_l","path":"sprites/Spr_bomber_l/Spr_bomber_l.yy",},"order":5,},
     {"id":{"name":"backgr","path":"sprites/backgr/backgr.yy",},"order":0,},
     {"id":{"name":"Spr_bar_2","path":"sprites/Spr_bar_2/Spr_bar_2.yy",},"order":4,},
     {"id":{"name":"Spr_Z_l","path":"sprites/Spr_Z_l/Spr_Z_l.yy",},"order":2,},
