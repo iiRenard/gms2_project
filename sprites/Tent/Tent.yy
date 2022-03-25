@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "gml_project",
-    "path": "gml_project.yyp",
+    "name": "Environment_objects",
+    "path": "folders/Sprites/Environment_objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "Tent",
