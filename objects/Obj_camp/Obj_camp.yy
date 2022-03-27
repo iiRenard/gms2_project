@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Spr_Tent",
-    "path": "sprites/Spr_Tent/Spr_Tent.yy",
+    "name": "Tent",
+    "path": "sprites/Tent/Tent.yy",
   },
   "solid": false,
   "visible": true,
